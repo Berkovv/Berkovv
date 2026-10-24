@@ -34,8 +34,7 @@ Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la 
 
 ### 📂 Proyecto Destacado: BeachG
 
-**[BeachG]** 
-Proyecto académico Full-Stack para la gestión de complejos turísticos. Desarrollo de API REST, seguridad JWT, integración con MercadoPago y despliegue mediante contenedores. *(Java, Spring Boot, React, TypeScript, Docker, AWS)*.
+Proyecto académico Full-Stack para la gestión de complejos turísticos*.
 - **Tecnologías:** Java, Spring Boot, TypeScript, JavaScript, HTML5, CSS3, MySQL, Docker, AWS.
 - **Implementaciones clave:** API Mercado-Pago, Despliegue Frontend ubicado en Vercel.
 
