@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-Stack Developer | Estudiante de Programacion
 
-Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la vida de las personas.
+Apasionado por el desarrollo de soluciones de software que simplifiquen el día a día de los usuarios.
 
 ### 🚀 Sobre mí
 - 🎓 Estudiante de la **Tecnicatura Universitaria en Programacion** en **Universidad Tecnologica Nacional, Facultad Regional de Mar del Plata**.
