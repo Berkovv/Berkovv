@@ -1,34 +1,44 @@
-# Hola, soy Juan Pablo Bercovsky 👋
+# Hola, soy Bercovsky, Juan Pablo 👋
 
-### 👨‍💻 Desarrollador [Tu Rol, ej: Full-Stack / Backend] | Estudiante de [Tu Carrera]
+### 👨‍💻 Full-Stack Developer | Estudiante de Programacion
 
-Apasionado por [tu interés principal, ej: resolver problemas con código / crear interfaces increíbles]. Actualmente me estoy formando en [Tecnología o Área] y busco oportunidades para [tu objetivo, ej: sumar mi primera experiencia formal en la industria / aportar valor en un equipo dinámico].
+Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la vida de las personas.
 
 ### 🚀 Sobre mí
-- 🎓 Estudiante de **[Tu Carrera]** en **[Tu Institución]**.
-- 💼 Actualmente [qué estás haciendo, ej: trabajando en X / construyendo proyectos personales].
-- 📍 [Tu Ciudad, Provincia, País].
+- 🎓 Estudiante de la **Tecnicatura Universitaria en Programacion** en **Universidad Tecnologica Nacional, Facultad Regional de Mar del PlataM**.
+- 💼 Actualmente me encuentro elaborando proyectos personales como mi propio emprendimiento/marca.
+- 📍 Provincia de Buenos Aires, Mar del Plata.
 
 ---
 
 ### 💻 Stack Tecnológico
 
 **Backend & Base de Datos**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <!-- Podés sumar o borrar las que no uses -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+!<!-- Podés sumar o borrar las que no uses -->
 
 **Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Infraestructura & Herramientas**  
+**Infraestructura & Herramientas**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
 
-### 📂 Proyecto Destacado: [Nombre de tu Proyecto]
+### 📂 Proyecto Destacado: BeachG
 
-[Breve descripción de qué hace tu proyecto y qué problema resuelve]. 
-- **Tecnologías:** [Ej: Node.js, Express, React, MongoDB].
-- **Implementaciones clave:** [Ej: Autenticación, consumo de API externa, despliegue en Vercel].
+**[BeachG]** 
+Proyecto académico Full-Stack para la gestión de complejos turísticos. Desarrollo de API REST, seguridad JWT, integración con MercadoPago y despliegue mediante contenedores. *(Java, Spring Boot, React, TypeScript, Docker, AWS)*.
+- **Tecnologías:** Java, Spring Boot, TypeScript, JavaScript, HTML5, CSS3, MySQL, Docker, AWS.
+- **Implementaciones clave:** API Mercado-Pago, Despliegue Frontend ubicado en Vercel.
 
 ---
 
@@ -37,7 +47,7 @@ Apasionado por [tu interés principal, ej: resolver problemas con código / crea
 <div align="center">
   <a href="https://git.io/streak-stats">
     <!-- Cambiá "TuUsuarioDeGitHub" por tu nombre de usuario real en el link de abajo -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TuUsuarioDeGitHub&theme=modern-lilac2" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Berkovv&theme=modern-lilac2" alt="GitHub Streak" />
   </a>
 </div>
 
