@@ -1,4 +1,4 @@
-# Hola, soy Bercovsky, Juan Pablo 👋
+# Hola, me llamo Bercovsky, Juan Pablo 👋
 
 ### 👨‍💻 Full-Stack Developer | Estudiante de Programacion
 
