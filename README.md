@@ -40,7 +40,7 @@ Apasionado por el desarrollo de soluciones de software que simplifiquen el día 
 
 Proyecto académico Full-Stack para la gestión de complejos turísticos*.
 - **Tecnologías:** Java, Spring Boot, TypeScript, JavaScript, HTML5, CSS3, MySQL, Docker, AWS.
-- **Implementaciones clave:** API Mercado-Pago, Despliegue Frontend ubicado en Vercel.
+- **Implementaciones:** API Mercado-Pago, Despliegue Frontend ubicado en Vercel.
 
 ---
 
