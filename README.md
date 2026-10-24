@@ -5,7 +5,7 @@
 Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la vida de las personas.
 
 ### 🚀 Sobre mí
-- 🎓 Estudiante de la **Tecnicatura Universitaria en Programacion** en **Universidad Tecnologica Nacional, Facultad Regional de Mar del PlataM**.
+- 🎓 Estudiante de la **Tecnicatura Universitaria en Programacion** en **Universidad Tecnologica Nacional, Facultad Regional de Mar del Plata**.
 - 💼 Actualmente me encuentro elaborando proyectos personales como mi propio emprendimiento/marca.
 - 📍 Provincia de Buenos Aires, Mar del Plata.
 
@@ -14,12 +14,14 @@ Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la 
 ### 💻 Stack Tecnológico
 
 **Backend & Base de Datos**  
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**  
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
