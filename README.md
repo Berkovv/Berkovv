@@ -18,7 +18,6 @@ Apasionado por la creacion de paginas y utilidades que sirvan para facilitar la 
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-!<!-- Podés sumar o borrar las que no uses -->
 
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +45,6 @@ Proyecto académico Full-Stack para la gestión de complejos turísticos. Desarr
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <!-- Cambiá "TuUsuarioDeGitHub" por tu nombre de usuario real en el link de abajo -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Berkovv&theme=modern-lilac2" alt="GitHub Streak" />
   </a>
 </div>
