@@ -38,7 +38,7 @@ Apasionado por el desarrollo de soluciones de software que simplifiquen el día 
 
 ### 📂 Proyecto Destacado: BeachG
 
-Proyecto académico Full-Stack para la gestión de complejos turísticos*.
+Proyecto académico Full-Stack para la gestión de complejos turísticos.
 - **Tecnologías:** Java, Spring Boot, TypeScript, JavaScript, HTML5, CSS3, MySQL, Docker, AWS.
 - **Implementaciones:** API Mercado-Pago, Despliegue Frontend ubicado en Vercel.
 
