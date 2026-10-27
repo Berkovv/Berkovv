@@ -8,7 +8,6 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional, Facultad Regional de Mar del Plata**.
 - 💼 Actualmente desarrollando proyectos personales orientados a construir mi propio emprendimiento y marca.
 - 📍 Residiendo en **Mar del Plata, Provincia de Buenos Aires**.
 
